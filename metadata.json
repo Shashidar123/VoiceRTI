@@ -1,0 +1,10 @@
+{
+  "name": "RTI Voice Assistant",
+  "description": "Voice-First RTI Assistant helps Indian citizens analyze their grievances and draft RTI applications in regional languages.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
